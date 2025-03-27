@@ -12,7 +12,7 @@
 - Quantidade de votos
 
 ### Video da explicação
-- https://www.youtube.com/watch?v=eRctfjVnrAI)
+- https://www.youtube.com/watch?v=eRctfjVnrAI
 
 ### Top 10 Filmes
 
