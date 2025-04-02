@@ -2,5 +2,8 @@
 
 public enum VariavelFuzzyTipo
 {
-    
+    Pouco,
+    Mediano,
+    Bastante,
+    Muito
 }

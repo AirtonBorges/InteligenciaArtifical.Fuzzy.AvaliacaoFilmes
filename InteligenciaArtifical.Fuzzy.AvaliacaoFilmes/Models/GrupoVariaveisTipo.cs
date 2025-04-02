@@ -1,9 +1,11 @@
 ﻿namespace InteligenciaArtifical.Fuzzy.AvaliacaoFilmes.Models;
 
-public enum TipoGrupoVariaveis
+public enum GrupoVariaveisTipo
 {
     Genre,
     Runtime,
     VoteAverage,
-    Budget
+    Budget,
+    Score,
+    VoteCount
 }
